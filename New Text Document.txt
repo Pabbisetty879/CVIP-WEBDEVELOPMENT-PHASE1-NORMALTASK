@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>EdTech Landing Page</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">EdTech</div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <h1>Welcome to EdTech</h1>
+        <p>Your Gateway to Online Learning</p>
+        <a href="#" class="cta-button">Explore Courses</a>
+    </section>
+    <section class="features">
+        <div class="feature">
+            <h2>Expert Instructors</h2>
+            <p>Learn from industry experts.</p>
+        </div>
+        <div class="feature">
+            <h2>Interactive Learning</h2>
+            <p>Engage with hands-on projects.</p>
+        </div>
+        <div class="feature">
+            <h2>Flexible Schedule</h2>
+            <p>Learn at your own pace.</p>
+        </div>
+    </section>
+    <section class="testimonial">
+        <blockquote>
+            "EdTech has transformed my career. I highly recommend it to anyone looking to upgrade their skills."
+        </blockquote>
+        <cite>- John Doe</cite>
+    </section>
+    <footer>
+        <p>&copy; 2023 EdTech. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
